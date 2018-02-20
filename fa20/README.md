@@ -1,10 +1,12 @@
 # Promotion FA20 (février-mars 2018)
 
-## nom du groupe
+## Tractopelles
 
-descriptif rapide
+libGDX — jeu de cartes _complots_ / daleks / sokoban
 
-- qui + id github
+- [Benjamin Schmitt (@BenjaminSchmitt)](https://github.com/BenjaminSchmitt)
+- [Benjamin Lecha (@BenjaminLECHA)](https://github.com/BenjaminLECHA)
+- [Florent Legru (@Adralith1)](https://github.com/Adralith1)
 
 ## JVMD (Je Veux Mon Diplôme)
 
