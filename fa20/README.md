@@ -23,6 +23,8 @@ L'équipe est constituée de 4 personnes:
 
 Sujet : En nous inspirant du jeu _Thomas was alone_, nous allons réaliser un jeu de plateforme de 2 à 4 niveaux.
 
+[Sources](https://github.com/pasterp/kangourou)
+
 Choix technique : Slick2d / Maven.
 
 [Dépot Github](https://github.com/pasterp/kangourou)
